@@ -5,6 +5,8 @@ This project intented to create a domain-specific topic classification model bas
 
 The main interface is considered the only necessary Notebook to use and edit. Use the main interface notebook to extract the data, run and train the models and apply classification to future articles. The main notebook uses commands to run the remaining notebooks.
 
+The working code is located in the "backend-code" directory
+
 To extract the data, you will need access to InfoDesk's API solution. Contact InfoDesk for further clarification. The model is based on data from InfoDesk as it is the main platform used by Scientific Intelligence to extract news.
 
 For any question please contact me at phz439@alumni.ku.dk
