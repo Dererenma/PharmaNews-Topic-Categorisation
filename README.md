@@ -1,6 +1,6 @@
 OBS: The main data file used to train the models in this project is too big to be uploaded to GitHub. Please contact me at phz439@alumni.ku.dk along with an recipient e-mail, and i will send it if necessary.
 
-Or use this dropbox for file download: https://www.dropbox.com/scl/fi/kr3n5m6einfdijtsufajs/final_MEMO_data.csv?dl=0&rlkey=2007rgm6mcowd7ncnv4oz8we9
+Or use this dropbox link for file download: https://www.dropbox.com/scl/fi/kr3n5m6einfdijtsufajs/final_MEMO_data.csv?dl=0&rlkey=2007rgm6mcowd7ncnv4oz8we9
 
 # PharmaNews-Topic-Categorisation
 This repository contain the code, files, data etc. for my final dissertation at Copenhagen University for my master in Communication & IT. The project is made in collaboration with Novo Nordisk A/S, Scientific Intelligence department. The repository is private and falls under a NDA signed by Carl Johanson (researcher), the director of Scientific Intelligence, and my supervisor Anders Søgaard. All rights reserved.
